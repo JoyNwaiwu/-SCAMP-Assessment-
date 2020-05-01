@@ -2,7 +2,9 @@
 A function to output the Fibonacci sequence of a given number 
 
 def fib(n):
+  
   a = 0
+  
   b = 1
   print (a)
   print (b)
